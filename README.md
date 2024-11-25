@@ -1,7 +1,15 @@
 # 👋 Hi there, I'm Diyorbek Qodirboyev!  
 
 ## 🎯 My Goal  
-I'm an aspiring **Senior Full-Stack Developer** with a passion for building efficient, scalable, and impactful web applications.  
+I'm an aspiring **Senior Full-Stack Developer** with a passion for building efficient, scalable, and impactful web applications.
+
+# Diyorbek Qodirboyev - Full-Stack Developer 👨‍💻
+
+Welcome to my GitHub profile! I'm Diyorbek Qodirboyev, a Full-Stack Developer with a passion for web development. I specialize in Python, Flask, HTML, CSS, and JavaScript. 🚀
+
+## 🌐 Portfolio
+You can view my personal portfolio live at:  
+[**whdev36-links.netlify.app**](https://whdev36-links.netlify.app/)
 
 ## 💻 Technologies & Skills  
 - **Programming Language**: Python, JavaScript 
