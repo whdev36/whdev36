@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Diyorbek Qodirboyev!  
+# 👋 Hi there, I'm Haydarbek Qodirboyev!  
 
 ## 🎯 My Goal  
 I'm an aspiring **Senior Full-Stack Developer** with a passion for building efficient, scalable, and impactful web applications.
