@@ -1,11 +1,11 @@
-# 👋 Hi there, I'm Haydarbek Qodirboyev!  
+# 👋 Hi there, I'm Wisdom Hunter!  
 
 ## 🎯 My Goal  
 I'm an aspiring **Senior Full-Stack Developer** with a passion for building efficient, scalable, and impactful web applications.
 
-# Haydarbek Qodirboyev - Full-Stack Developer 👨‍💻
+# Wisdom Hunter - Full-Stack Developer 👨‍💻
 
-Welcome to my GitHub profile! I'm Haydarbek Qodirboyev, a Full-Stack Developer with a passion for web development. I specialize in Python, Flask, HTML, CSS, and JavaScript. 🚀
+Welcome to my GitHub profile! I'm Wisdom Hunter, a Full-Stack Developer with a passion for web development. I specialize in Python, Flask, HTML, CSS, and JavaScript. 🚀
 
 ## 🌐 Portfolio
 You can view my personal portfolio live at:  
@@ -13,7 +13,7 @@ You can view my personal portfolio live at:
 
 ## 💻 Technologies & Skills  
 - **Programming Language**: Python, JavaScript 
-- **Frameworks**: Django, Flask, FastAPI
+- **Frameworks**: Django, Flask, FastAPI, aiogram, pyTelegramBotAPI
 - **Frontend**: HTML, CSS, Bootstrap, jQuery 
 - **Database**: SQLite, MySQL, PostgreSQL
 
@@ -38,9 +38,8 @@ I enjoy working on:
 
 I aim to develop these projects with high quality using **Flask** and **Django**.  
 
-## 📫 Contact Me  
-- **Email**: haydarbekqodirboyev@gmail.com  
-- **Telegram**: [diyorbekqodirboyev](https://t.me/diyorbekqodirboyev)  
+## 📫 Contact Me   
+- **Telegram**: [Wisdom Hunter](https://t.me/diyorbekqodirboyev)  
 - **GitHub**: [whdev36](https://github.com/whdev36)  
 
 ---
