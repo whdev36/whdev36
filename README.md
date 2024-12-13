@@ -19,8 +19,8 @@ You can view my personal portfolio live at:
 
 ## 🏅 Certifications  
 
-- **Introduction to CSS** - SoloLearn  
-  [View Certificate](https://www.sololearn.com/certificates/CC-HDJUAQ6P)
+- [Introduction to CSS](https://www.sololearn.com/certificates/CC-HDJUAQ6P)
+- [Introduction to JavaScript](https://www.sololearn.com/certificates/CC-0MD0MNJN)
 
 ## 🚀 Projects  
 Here are some of the projects I’ve worked on:  
