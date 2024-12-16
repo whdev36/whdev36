@@ -7,13 +7,9 @@ I'm an aspiring **Senior Full-Stack Developer** with a passion for building effi
 
 Welcome to my GitHub profile! I'm Wisdom Hunter, a Full-Stack Developer with a passion for web development. I specialize in Python, Flask, HTML, CSS, and JavaScript. 🚀
 
-## 🌐 Portfolio
-You can view my personal portfolio live at:  
-[**whdev36-links.netlify.app**](https://whdev36-links.netlify.app/)
-
 ## 💻 Technologies & Skills  
-- **Programming Language**: Python, JavaScript 
-- **Frameworks**: Django, Flask, FastAPI, aiogram, pyTelegramBotAPI
+- [![Python](https://img.shields.io/badge/python-3.12%2B-blue)](https://www.python.org/) [![JavaScript](https://img.shields.io/badge/JavaScript-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [![Django](https://img.shields.io/badge/django-5.0-green)](https://www.djangoproject.com/) [![Flask](https://img.shields.io/badge/flask-3.0-blue)](https://flask.palletsprojects.com), FastAPI, aiogram, pyTelegramBotAPI
 - **Frontend**: HTML, CSS, Bootstrap, jQuery 
 - **Database**: SQLite, MySQL, PostgreSQL
 
@@ -23,7 +19,7 @@ You can view my personal portfolio live at:
 - [Introduction to JavaScript](https://www.sololearn.com/certificates/CC-0MD0MNJN)
 
 ## 🚀 Projects  
-Here are some of the projects I’ve worked on:  
+Here are some of the projects I've worked on:  
 1. **Flask Project**: My first Flask project  
    - GitHub Repository: [flask-project](https://github.com/whdev36/flask-project)  
 
