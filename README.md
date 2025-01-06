@@ -18,7 +18,6 @@ I'm a passionate developer constantly seeking to learn and grow. Welcome to my G
 
 - **LinkedIn:** [Wisdom Hunter](https://www.linkedin.com/in/wisdom-hunter-472b87341/)
 - **Twitter:** [@whdev36](https://x.com/whdev36)
-- **Email:** diyorbekqodirboyev@gmail.com
 
 Feel free to check out my repositories and get in touch if you have any questions or collaboration ideas!
 
